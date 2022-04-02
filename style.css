@@ -1,0 +1,12 @@
+#heading, #sub_heading, #note{
+    color: yellow;
+}
+
+#my_canvas{
+    border: ridge lightslategray 5px;
+}
+
+#background_image{
+    background-image: url("concrete-road.jpg");
+}
+
